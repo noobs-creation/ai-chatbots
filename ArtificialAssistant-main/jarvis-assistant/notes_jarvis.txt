@@ -1,0 +1,63 @@
+Jarvis AI bot
+It will help in day to day work and automation and also help with taking notes, giving details on certain topics like corona, daily top news, etc.
+It will help in home automation that will work on voice commands.
+
+1.	Voice input
+2.	Greeting upon power on
+3.	Face recognition to identify the person and greet accordingly
+4.	Voice recognition to identify the owner
+5.	Daily news/business news details
+6.	Corona details 
+7.	Taking notes
+8.	Do some simple calculations 
+9.	Implement more complex calculations
+10.	Tweet something on voice command
+11.	Play music from music folder on pc/ from youtube
+12.	Get CPU usage
+13.	Get battery percentage and warning on low battery
+14.	Internet or website browsing
+15.	Send email (with or without attachments)
+16.	Get own time zone and location and temperature from IP address
+17.	Open Instagram account (download display picture)
+18.	Take spelling dictation as alternative to input manually
+19.	Take screenshot
+20.	Make all files/folders visible/invisible
+21.	Check internet speed
+22.	Get instructions about how to do something (how-to-do mode)
+23.	Home automation
+24.	Make the system shutdown, restart and sleep 
+25.	Switch window (application windows)
+26.	Make Jarvis offline
+27.	Train Jarvis to play CS GO
+28.	Make Jarvis read a pdf
+29.	Make Jarvis say jokes
+30.	Send WhatsApp message
+
+
+
+
+
+
+
+
+
+
+
+===================================================================================
+WITH/OUT HEADPHONE
+
+Microsoft Sound Mapper - Input
+Microphone Array (Realtek High
+Microsoft Sound Mapper - Output
+Speakers (Realtek High Definiti
+Primary Sound Capture Driver
+Microphone Array (Realtek High Definition Audio)
+Primary Sound Driver
+Speakers (Realtek High Definition Audio)
+Speakers (Realtek High Definition Audio)
+Microphone Array (Realtek High Definition Audio)
+Stereo Mix (Realtek HD Audio Stereo input)
+Speakers (Realtek HD Audio output)
+Microphone Array (Realtek HD Audio Mic input)
+Output (NVIDIA High Definition Audio)
+

@@ -1,0 +1,14 @@
+https://streams.ilovemusic.de/iloveradio24.mp3
+http://112.121.151.133:8147/live
+
+http://ic7.101.ru:8000/c15_3
+http://112.121.151.133:8147/live
+https://node-35.zeno.fm/15wnypt6by8uv?rj-ttl=5&rj-tok=AAABfDKF7kcA-7G6h4qIRegXKA
+https://radioindia.net/radio/mirchi98/icecast.audio
+
+
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+
+
+python3 and vlc must have  same architecture installed on the windows

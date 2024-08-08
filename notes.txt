@@ -1,0 +1,21 @@
+Speech/Audio Processing
+Tasks	Datasets	Technologies/Models
+Speech Recognition	AISHELL-1, CommonVoice, DVoice, KsponSpeech, LibriSpeech, MEDIA, RescueSpeech, Switchboard, TIMIT, Tedlium2, Voicebank	CTC, Tranducers, Tranformers, Seq2Seq, Beamsearch techniques for CTC,seq2seq,transducers), Rescoring, Conformer, Branchformer, Hyperconformer, Kaldi2-FST
+Speaker Recognition	VoxCeleb	ECAPA-TDNN, ResNET, Xvectors, PLDA, Score Normalization
+Speech Separation	WSJ0Mix, LibriMix, WHAM!, WHAMR!, Aishell1Mix, BinauralWSJ0Mix	SepFormer, RESepFormer, SkiM, DualPath RNN, ConvTasNET
+Speech Enhancement	DNS, Voicebank	SepFormer, MetricGAN, MetricGAN-U, SEGAN, spectral masking, time masking
+Text-to-Speech	LJSpeech, LibriTTS	Tacotron2, Zero-Shot Multi-Speaker Tacotron2, FastSpeech2
+Vocoding	LJSpeech, LibriTTS	HiFiGAN, DiffWave
+Spoken Language Understanding	MEDIA, SLURP, Fluent Speech Commands, Timers-and-Such	Direct SLU, Decoupled SLU, Multistage SLU
+Speech-to-Speech Translation	CVSS	Discrete Hubert, HiFiGAN, wav2vec2
+Speech Translation	Fisher CallHome (Spanish), IWSLT22(lowresource)	wav2vec2
+Emotion Classification	IEMOCAP, ZaionEmotionDataset	ECAPA-TDNN, wav2vec2, Emotion Diarization
+Language Identification	VoxLingua107, CommonLanguage	ECAPA-TDNN
+Voice Activity Detection	LibriParty	CRDNN
+Sound Classification	ESC50, UrbanSound	CNN14, ECAPA-TDNN
+Self-Supervised Learning	CommonVoice, LibriSpeech	wav2vec2
+Interpretabiliy	ESC50	Learning-to-Interpret (L2I), Non-Negative Matrix Factorization (NMF), PIQ
+Speech Generation	AudioMNIST	Diffusion, Latent Diffusion
+Metric Learning	REAL-M, Voicebank	Blind SNR-Estimation, PESQ Learning
+Allignment	TIMIT	CTC, Viterbi, Forward Forward
+Diarization	AMI	ECAPA-TDNN, X-vectors, Spectral Clustering

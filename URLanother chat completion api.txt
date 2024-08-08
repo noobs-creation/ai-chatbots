@@ -1,0 +1,68 @@
+URL
+https://aibr.elway-mobile.com/chatCompletion
+Protocol:
+https
+Host:
+aibr.elway-mobile.com
+Path:
+/chatCompletion
+HEADERS
+Accept:
+application/json
+Accept-Charset:
+UTF-8
+Accept-Encoding:
+gzip
+aibmd:
+default
+aibpf:
+android
+aibsg:
+FrUbBtUYtaGXNBDDcoRRgSn3FReN87JosjmWMMdQEP2oF82D98yW3F+6aZ1s8kOdcfmvSB3DrrR0EmT0hMf1eB4cjQoali3zVjosyzm0/J9UAVjnZQH190A8FQM2/7QzLHKsx5Kafgn8LtXDvrbaokPnzOnwdI/vxM9VaBahh/kxCYc3iqoaZq1WcR6jE374LDi7VaSn30Eq/5wAYlBYOCEgZKO+9IZy8oY0qDYhVF6hJOpW2zI/Mx8kmgelyDAgUdvep0oLTXLDpEQaf15/G+vhugUumRMQMJ7fW9CIqSmITedt3cwKf4FPVWVR6evqfAfqid6hQ7sJViA/yahl9w==
+appmv:
+14
+appvr:
+1440
+Connection:
+keep-alive
+Content-Length:
+45
+Content-Type:
+text/event-stream; charset=UTF-8
+Host:
+aibr.elway-mobile.com
+User-Agent:
+Ktor client
+
+
+
+
+
+req
+
+
+
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    }
+  ]
+}
+
+
+
+res
+
+
+
+
+data:{"role":"assistant"}
+
+data:{"content":"Hello! How can I help"}
+
+data:{"content":" you today?"}
+
+data:{"content":"","finishReason":"stop"}
